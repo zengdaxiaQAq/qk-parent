@@ -12,4 +12,5 @@ public class QkManagementApplication {
 		SpringApplication.run(QkManagementApplication.class, args);
 	}
 	//dasjdlksajkldjasdlfasdadasds
+
 }
